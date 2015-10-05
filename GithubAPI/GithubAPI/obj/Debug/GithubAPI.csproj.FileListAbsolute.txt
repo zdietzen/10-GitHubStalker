@@ -1,0 +1,8 @@
+C:\Dev\Github\GithubAPI\GithubAPI\bin\Debug\GithubAPI.exe.config
+C:\Dev\Github\GithubAPI\GithubAPI\bin\Debug\GithubAPI.exe
+C:\Dev\Github\GithubAPI\GithubAPI\bin\Debug\GithubAPI.pdb
+C:\Dev\Github\GithubAPI\GithubAPI\obj\Debug\GithubAPI.csprojResolveAssemblyReference.cache
+C:\Dev\Github\GithubAPI\GithubAPI\obj\Debug\GithubAPI.exe
+C:\Dev\Github\GithubAPI\GithubAPI\obj\Debug\GithubAPI.pdb
+C:\Dev\Github\GithubAPI\GithubAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Github\GithubAPI\GithubAPI\bin\Debug\Newtonsoft.Json.xml
